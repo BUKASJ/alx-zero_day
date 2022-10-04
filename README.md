@@ -1,1 +1,1 @@
-My first readme
+My first readme changes Learning is a gradual process
